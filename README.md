@@ -4,11 +4,14 @@ Data strategist - from the shop floor, to the C-suite.
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Zen](https://img.shields.io/badge/Zen-%23F76F53.svg?style=for-the-badge&logo=zenbrowser&logoColor=white)
+![Python](https://img.shields.io/badge/Python-89b4fa?style=for-the-badge&logo=python&logoColor=cdd6f4)
+![Jupyter](https://img.shields.io/badge/Jupyter-fab387?style=for-the-badge&logo=jupyter&logoColor=cdd6f4)
+![Jekyll](https://img.shields.io/badge/Jekyll-f38ba8?style=for-the-badge&logo=jekyll&logoColor=cdd6f4)
+![Arch](https://img.shields.io/badge/Arch_Linux-89dceb?style=for-the-badge&logo=archlinux&logoColor=cdd6f4)
+![Claude](https://img.shields.io/badge/Claude-cba6f7?style=for-the-badge&logo=claude&logoColor=cdd6f4)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-a6e3a1?style=for-the-badge&logo=openai&logoColor=cdd6f4)
+![Zen](https://img.shields.io/badge/Zen-74c7ec?style=for-the-badge&logo=zenbrowser&logoColor=cdd6f4)
+![🤠 Cowboy](https://img.shields.io/badge/🤠_Cowboy-f9e2af?style=for-the-badge&logoColor=cdd6f4)
 
 ## Projects
 
