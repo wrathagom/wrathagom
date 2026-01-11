@@ -2,6 +2,14 @@
 
 Data strategist - from the shop floor, to the C-suite.
 
+## Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Zen](https://img.shields.io/badge/Zen-%23F76F53.svg?style=for-the-badge&logo=zenbrowser&logoColor=white)
+
 ## Projects
 
 **[analytical-ecosystem](https://github.com/wrathagom/analytical-ecosystem)** - Dockerized ecosystems of data engineering, analysis, and science tools
