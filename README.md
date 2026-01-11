@@ -1,6 +1,6 @@
 # Hi, I'm Caleb
 
-Data strategist - from the shop floor, to the C-suite.
+Data Crunching, software developing, horse riding - cyborg
 
 ## Tech Stack
 
