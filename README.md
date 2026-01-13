@@ -15,12 +15,16 @@ Data Crunching, software developing, horse riding - cyborg
 
 ## Projects
 
- - **[Analytical Ecosystem](https://github.com/wrathagom/analytical-ecosystem)** - Dockerized ecosystems of data engineering, analysis, and science tools
+ - **[AI Discord Bot](https://github.com/wrathagom/ai-discord-bot)** - AI-powered Discord bot for community assistance and automation
  - **[Big Beautiful Screens](https://github.com/wrathagom/Big-Beautiful-Screens)** - Real-time display screens with WebSocket updates, auto-layout, and admin dashboard
- - **[Production Worthy Jupyter](https://github.com/wrathagom/production-worthy-jupyter)** - Robust, production-ready Jupyter Notebooks
+ - **[Analytical Ecosystem](https://github.com/wrathagom/analytical-ecosystem)** - Dockerized ecosystems of data engineering, analysis, and science tools
+ - **[Dev Machine Proxy](https://github.com/wrathagom/dev-machine-proxy)** - Website meant to be hosted on your dev machine for a quick overview, service discovery, and remote work.
  - **[Lame Data](https://github.com/wrathagom/lame-data)** - Equine locomotion data collection for detecting lameness in horses
+ - **[Production Worthy Jupyter](https://github.com/wrathagom/production-worthy-jupyter)** - Robust, production-ready Jupyter Notebooks
 
 ## Links
 
-- [Blog](https://calebmkeller.com)
-- [Twitter](https://twitter.com/calebmkeller)
+[![Website](https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://calebmkeller.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/calebmkeller)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/calebmkeller)
+[![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/calebmkeller/)
