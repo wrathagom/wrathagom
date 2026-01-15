@@ -16,6 +16,7 @@ Data Crunching, software developing, horse riding - cyborg
 ## Projects
 
  - **[AI Discord Bot](https://github.com/wrathagom/ai-discord-bot)** - AI-powered Discord bot for community assistance and automation
+ - **[Life Calendar](https://github.com/wrathagom/life-calendar)** - [Live version](https://calebmkeller.com/life-calendar/)
  - **[Big Beautiful Screens](https://github.com/wrathagom/Big-Beautiful-Screens)** - Real-time display screens with WebSocket updates, auto-layout, and admin dashboard
  - **[Analytical Ecosystem](https://github.com/wrathagom/analytical-ecosystem)** - Dockerized ecosystems of data engineering, analysis, and science tools
  - **[Dev Machine Proxy](https://github.com/wrathagom/dev-machine-proxy)** - Website meant to be hosted on your dev machine for a quick overview, service discovery, and remote work.
