@@ -16,6 +16,8 @@ Data Crunching, software developing, horse riding - cyborg
 ## Projects
 
  - **[AI Discord Bot](https://github.com/wrathagom/ai-discord-bot)** - AI-powered Discord bot for community assistance and automation
+ - **[Chaos](https://github.com/wrathagom/vibe-written-fantasy-chaos)** - Exploration vibe writing a fantasy novel
+ - **[My Tower Defense](https://github.com/wrathagom/my-tower-defense)** - Vibe-coded tower defense game in godot
  - **[Life Calendar](https://github.com/wrathagom/life-calendar)** - Visualize your life ([Live version](https://calebmkeller.com/life-calendar/))
  - **[Generative Art](https://github.com/wrathagom/generative-art)** - Creative coding experiments with generative art ([Live version](https://calebmkeller.com/generative-art/))
  - **[Big Beautiful Screens](https://github.com/wrathagom/Big-Beautiful-Screens)** - Real-time display screens with WebSocket updates, auto-layout, and admin dashboard ([Live version](https://bigbeautifulscreens.com))
