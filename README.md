@@ -28,6 +28,7 @@ Data Crunching, software developing, horse riding - cyborg
  - **[Lame Data](https://github.com/wrathagom/lame-data)** - Equine locomotion data collection for detecting lameness in horses
  - **[Production Worthy Jupyter](https://github.com/wrathagom/production-worthy-jupyter)** - Robust, production-ready Jupyter Notebooks
  - **[LLM-eieio](https://github.com/wrathagom/llm-eieio)** - A simple AI SEO/GEO/AEO built on the [MooseStack](https://github.com/514-labs/moosestack)
+ - **[Multi Agent Profiles](https://github.com/wrathagom/multi-agent-profiles)** - Multiple agent profiles for Claude Code
 
 ## Links
 
