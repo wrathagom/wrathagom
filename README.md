@@ -1,6 +1,13 @@
 # Hi, I'm Caleb
 
-Data Crunching, software developing, horse riding - cyborg
+Builder who likes to build | Sales Engineer @ Rasa | Horseman
+
+## Rasa
+
+I'm a Sales Engineer at Rasa, building conversational AI that enterprises are proud to own.
+
+[![Rasa](https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=ffffff)](https://rasa.com)
+[![🎓 Rasa University](https://img.shields.io/badge/🎓_Rasa_University-5A17EE?style=for-the-badge&logo=rasa&logoColor=ffffff)](https://rasa.com/university)
 
 ## Tech Stack
 
@@ -15,19 +22,25 @@ Data Crunching, software developing, horse riding - cyborg
 
 ## Projects
 
- - **[AI Discord Bot](https://github.com/wrathagom/ai-discord-bot)** - AI-powered Discord bot for community assistance and automation
- - **[Chaos](https://github.com/wrathagom/vibe-written-fantasy-chaos)** - Exploration vibe writing a fantasy novel
- - **[My Tower Defense](https://github.com/wrathagom/my-tower-defense)** - Vibe-coded tower defense game in godot
- - **[Life Calendar](https://github.com/wrathagom/life-calendar)** - Visualize your life ([Live version](https://calebmkeller.com/life-calendar/))
- - **[Generative Art](https://github.com/wrathagom/generative-art)** - Creative coding experiments with generative art ([Live version](https://calebmkeller.com/generative-art/))
- - **[Big Beautiful Screens](https://github.com/wrathagom/Big-Beautiful-Screens)** - Real-time display screens with WebSocket updates, auto-layout, and admin dashboard ([Live version](https://bigbeautifulscreens.com))
- - **[Analytical Ecosystem](https://github.com/wrathagom/analytical-ecosystem)** - Dockerized ecosystems of data engineering, analysis, and science tools
- - **[CD Info](https://github.com/wrathagom/cd-info)** - Shell function that displays project information when entering directories with a .cdinfo file
- - **[Docker Alias](https://github.com/wrathagom/docker-alias)** - Docker Compose aliases for common operations
- - **[Lame Data](https://github.com/wrathagom/lame-data)** - Equine locomotion data collection for detecting lameness in horses
- - **[Production Worthy Jupyter](https://github.com/wrathagom/production-worthy-jupyter)** - Robust, production-ready Jupyter Notebooks
- - **[LLM-eieio](https://github.com/wrathagom/llm-eieio)** - A simple AI SEO/GEO/AEO built on the [MooseStack](https://github.com/514-labs/moosestack)
- - **[Multi Agent Profiles](https://github.com/wrathagom/multi-agent-profiles)** - Multiple agent profiles for Claude Code
+ - **[Chaos](https://github.com/wrathagom/vibe-written-fantasy-chaos)** - Writing a fantasy trilogy with Claude as my ghost writer
+ - **[My Tower Defense](https://github.com/wrathagom/my-tower-defense)** - My first ever game - tower defense, resource management, base building
+ - **[Life Calendar](https://github.com/wrathagom/life-calendar)** - A full-screen, distraction-free life calendar that visualizes your life in weeks ([Live version](https://calebmkeller.com/life-calendar/))
+ - **[Generative Art](https://github.com/wrathagom/generative-art)** - Vibe-coded, browser based generative art ([Live version](https://calebmkeller.com/generative-art/))
+ - **[Big Beautiful Screens](https://github.com/wrathagom/Big-Beautiful-Screens)** - Real-time display screens with WebSocket updates, auto-layout, auto-scaling text/markdown, image/video support, and an admin dashboard ([Live version](https://bigbeautifulscreens.com))
+ - **[Analytical Ecosystem](https://github.com/wrathagom/analytical-ecosystem)** - A tool to create Dockerized ecosystems of data engineering, analysis, and science tools
+ - **[CD Info](https://github.com/wrathagom/cd-info)** - A cd wrapper to help you remember how to work in a given directory
+ - **[Docker Alias](https://github.com/wrathagom/docker-alias)** - Some Docker Compose aliases I use a lot, thought they may be useful to others
+ - **[Lame Data](https://github.com/Sun-Stone-Solutions/lame-data)** - Equine locomotion data collection system geared at detecting or measuring lameness in horses
+ - **[LLM-eieio](https://github.com/wrathagom/llm-eieio)** - A simple tool for monitoring AI SEO/GEO/AEO using the [MooseStack](https://github.com/514-labs/moosestack)
+ - **[Multi Agent Profiles](https://github.com/wrathagom/multi-agent-profiles)** - Managing multiple agents with different profiles (work, personal, etc)
+ - **[Forest](https://github.com/wrathagom/forest)** - A localhost web dashboard for keeping many local code projects in view at once - project cards, per-project terminals, a file editor, a git tab, and agent-session tracking
+
+## Stale
+
+Not dead, I just haven't touched them in 6 months.
+
+ - **[AI Discord Bot](https://github.com/wrathagom/ai-discord-bot)** - A Discord bot that can interact with Claude Code and OpenAI Codex
+ - **[Production Worthy Jupyter](https://github.com/wrathagom/production-worthy-jupyter)** - Robust, production worthy, ready to go Jupyter Notebooks
 
 ## Links
 
