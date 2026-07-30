@@ -18,7 +18,7 @@ A production-ready [Rasa Pro (CALM)](https://rasa.com/docs/learn/concepts/calm/)
 curl -fsSL https://raw.githubusercontent.com/rasa-customers/rasa-quickstart/main/install.sh | bash
 ```
 
-You'll need a free [Rasa license](https://rasa.com/docs/pro/intro/) and an LLM key; the installer walks you through it.
+You'll need a free [Rasa license](https://rasa.com/rasa-pro-developer-edition-license-key-request) and an LLM key; the installer walks you through it.
 
 Windows, flags, and what you'll get: [rasa-quickstart](https://github.com/rasa-customers/rasa-quickstart)
 
