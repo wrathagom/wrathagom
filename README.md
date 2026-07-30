@@ -4,10 +4,11 @@ Builder who likes to build | Sales Engineer @ Rasa | Horseman
 
 ## Rasa
 
-I'm a Sales Engineer at Rasa, building conversational AI that enterprises are proud to own.
+I'm a Sales Engineer at Rasa, building conversational AI that enterprises are proud to own. Come talk to me about it in the Rasa Agent Engineering Community on Discord.
 
 [![Rasa](https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=ffffff)](https://rasa.com)
 [![🎓 Rasa University](https://img.shields.io/badge/🎓_Rasa_University-5A17EE?style=for-the-badge&logo=rasa&logoColor=ffffff)](https://rasa.com/university)
+[![Discord](https://img.shields.io/badge/Discord-5A17EE?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.gg/rwhHg9PZBv)
 
 ## Tech Stack
 
