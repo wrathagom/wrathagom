@@ -10,6 +10,18 @@ I'm a Sales Engineer at Rasa, building conversational AI that enterprises are pr
 [![🎓 Rasa University](https://img.shields.io/badge/🎓_Rasa_University-5A17EE?style=for-the-badge&logo=rasa&logoColor=ffffff)](https://rasa.com/university)
 [![Discord](https://img.shields.io/badge/Discord-5A17EE?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.gg/rwhHg9PZBv)
 
+### Spin up a Rasa agent in one command
+
+A production-ready [Rasa Pro (CALM)](https://rasa.com/docs/learn/concepts/calm/) agent - no cloning, no setup steps.
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/rasa-customers/rasa-quickstart/main/install.sh | bash
+```
+
+You'll need a free [Rasa license](https://rasa.com/docs/pro/intro/) and an LLM key; the installer walks you through it.
+
+Windows, flags, and what you'll get: [rasa-quickstart](https://github.com/rasa-customers/rasa-quickstart)
+
 ## Tech Stack
 
 [![Python](https://img.shields.io/badge/Python-89b4fa?style=for-the-badge&logo=python&logoColor=cdd6f4)](https://github.com/wrathagom?tab=repositories&q=&type=&language=python&sort=)
